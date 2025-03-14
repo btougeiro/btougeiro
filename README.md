@@ -1,7 +1,7 @@
-- 👋 Hi, I'm @btougeiro
-- 👀 I'm interested in AWS, Terraform, Kubernetes, Docker, Ansible, Observability, Linux, Python, and Golang
-- 🌱 I'm currently learning Kubernetes, Observability (Grafana, Loki, Prometheus, Windows Exporter, Node Exporter, CAdvisor, Promtail), and Golang
-- 💞️ I'm looking to collaborate on Ansible, AWS, Docker, Terraform, Kubernetes, Golang, and Python projects
+- 👋 Hi, I am @btougeiro
+- 👀 I am interested in AWS, Terraform, Terragrunt, Kubernetes, Docker, Observability, Linux, Python, and Golang
+- 🌱 I am always learning something new. Who does not?
+- 💞️ I am looking to collaborate on Kubernetes, AWS, Terraform, Golang, and Python projects
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/brunotougeiro)
 
 <!---
