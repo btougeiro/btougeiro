@@ -3,7 +3,7 @@
 ### 🚀 Senior DevOps Engineer | Kubernetes Administrator | GoLang Developer
 **18+ Years of IT Excellence | 9 Years Linux Administration | 6 Years DevOps & SRE**
 
-Passionate about automating complex infrastructures, building scalable distributed systems, and implementing robust GitOps workflows. With a foundation as an **Electronic Technician from Marinha do Brasil** and a long career in Unix/Linux systems, I specialize in bridging the gap between hardware, systems, and modern cloud-native orchestration.
+Passionate about automating complex infrastructures, building scalable distributed systems, and implementing robust GitOps workflows. With a deep foundation in Unix/Linux systems administration, I specialize in bridging the gap between foundational infrastructure and modern cloud-native orchestration.
 
 ---
 
