@@ -1,8 +1,16 @@
 # 👋 Hi, I'm Bruno Tougeiro
 
 ### 🚀 Senior DevOps Engineer | Kubernetes Administrator | GoLang Developer
+**18+ Years of IT Excellence | 9 Years Linux Administration | 6 Years DevOps & SRE**
 
-Passionate about automating complex infrastructures, building scalable distributed systems, and implementing robust GitOps workflows. I specialize in bridging the gap between development and operations through clean code and efficient orchestration.
+Passionate about automating complex infrastructures, building scalable distributed systems, and implementing robust GitOps workflows. With a foundation as an **Electronic Technician from Marinha do Brasil** and a long career in Unix/Linux systems, I specialize in bridging the gap between hardware, systems, and modern cloud-native orchestration.
+
+---
+
+### 🏆 Certifications & Expertise
+![LPI Certified](https://img.shields.io/badge/LPI-Certified-blue?style=flat&logo=linux&logoColor=white) 
+![Python for Sysadmins](https://img.shields.io/badge/Python%20for%20Sysadmins-Certified-yellow?style=flat&logo=python&logoColor=white)
+![Linux Security Specialist](https://img.shields.io/badge/Linux%20Security-Specialist-red?style=flat&logo=linux&logoColor=white)
 
 ---
 
@@ -23,7 +31,7 @@ Passionate about automating complex infrastructures, building scalable distribut
 - **GitOps Excellence:** Leveraging the **Argo Ecosystem** (CD, Rollouts, Workflows) to achieve zero-touch deployments and self-healing infrastructure.
 - **Go-Powered Tooling:** Building custom CLIs, Kubernetes Operators, and microservices in **Go** to extend platform capabilities.
 - **Infrastructure as Code:** Maintaining modular, dry, and scalable infrastructure using **Terraform/Terragrunt** and **OpenTofu**.
-- **Observability:** Implementing deep monitoring and distributed tracing to ensure system reliability and performance.
+- **SRE & Observability:** Implementing deep monitoring and distributed tracing to ensure system reliability and performance.
 
 ---
 
