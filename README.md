@@ -25,6 +25,7 @@ I specialize in building and maintaining mission-critical cloud infrastructure u
 - **Go-Powered Automation:** Developing custom CLIs, Kubernetes Operators, and backend services in **Go** to solve infrastructure challenges.
 - **Enterprise IaC:** Scaling infrastructure with **Terraform** and **Terragrunt**, while securing access with **HashiCorp Vault** and **Boundary**.
 - **Helm Engineering:** Designing and maintaining robust Helm charts for standardized service deployments across clusters.
+- **AI-Augmented Engineering:** Leveraging AI as a strategic peer-programming partner to accelerate development cycles, optimize Go/Python code, and refine complex infrastructure designs.
 
 ---
 
