@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Bruno Tougeiro
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=btougeiro&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ### 🚀 Senior DevOps & SRE | Kubernetes Admin | GoLang Developer
 **18+ Years of IT Excellence | 9 Years Linux Systems | 6 Years Cloud-Native Engineering**
 
@@ -13,9 +17,10 @@ I specialize in building and maintaining mission-critical cloud infrastructure u
 | :--- | :--- |
 | **Orchestration** | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1628?style=flat&logo=helm&logoColor=white) ![containerd](https://img.shields.io/badge/containerd-5391FE?style=flat&logo=containerd&logoColor=white) ![K3s](https://img.shields.io/badge/K3s-FFC107?style=flat&logo=kubernetes&logoColor=black) |
 | **GitOps & CI/CD** | ![Argo CD](https://img.shields.io/badge/Argo%20CD-%23ef7b4d.svg?style=flat&logo=argo&logoColor=white) ![Argo Workflows](https://img.shields.io/badge/Argo%20Workflows-%23ef7b4d.svg?style=flat&logo=argo&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) |
-| **IaC & Security** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Terragrunt](https://img.shields.io/badge/Terragrunt-blue?style=flat) ![Vault](https://img.shields.io/badge/Vault-6AD7E5?style=flat&logo=hashicorpvault&logoColor=black) ![Boundary](https://img.shields.io/badge/Boundary-F2CE1B?style=flat&logo=hashicorp&logoColor=black) |
+| **IaC & Security** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Terragrunt](https://img.shields.io/badge/Terragrunt-%23000080.svg?style=flat&logo=terraform&logoColor=white) ![Vault](https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&logoColor=FFEC6E) ![Boundary](https://img.shields.io/badge/Boundary-F2CE1B?style=flat&logo=hashicorp&logoColor=black) |
 | **Languages** | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) |
-| **Environment** | ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793d1.svg?style=flat&logo=arch-linux&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) |
+| **Environment** | ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793d1.svg?style=flat&logo=arch-linux&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazonwebservices&logoColor=%23FF9900) |
+| **Currently Learning** | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) |
 
 ---
 
@@ -39,8 +44,14 @@ I specialize in building and maintaining mission-critical cloud infrastructure u
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/brunotougeiro](https://linkedin.com/in/brunotougeiro)
-- **Portfolio:** [github.com/btougeiro](https://github.com/btougeiro)
+<p align="left">
+  <a href="https://linkedin.com/in/brunotougeiro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/btougeiro" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 <!--
 btougeiro/btougeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
