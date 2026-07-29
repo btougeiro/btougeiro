@@ -4,8 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=btougeiro&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-### 🚀 Senior DevOps & SRE | Kubernetes Admin | GoLang Developer
-**18+ Years of IT Excellence | 9 Years Linux Systems | 6 Years Cloud-Native Engineering**
+### 🚀 Senior/Staff DevOps/Platform Engineer & SRE | Kubernetes Admin | Go Developer
+**18+ Years of IT Excellence | 9 Years Linux Systems | 7 Years Cloud-Native Engineering**
 
 I specialize in building and maintaining mission-critical cloud infrastructure using **Go**, **Kubernetes**, and **GitOps** methodologies. My daily workflow is centered around the **Argo Ecosystem** and high-scale automation, with a focus on security-first infrastructure.
 
