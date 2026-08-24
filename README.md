@@ -6,7 +6,7 @@
 
 ### 🚀 Senior/Staff DevOps/Platform Engineer | Kubernetes | Go Developer
 
-I specialize in building and maintaining mission-critical cloud infrastructure using **Go**, **Kubernetes**, and **GitOps** methodologies — centered on the **Argo Ecosystem** and security-first automation.
+I specialize in building and maintaining mission-critical cloud infrastructure using **Go**, **Kubernetes**, and **GitOps** methodologies — centered on the **Argo Ecosystem** and security-first automation. I build and operate platforms that run modern AI/ML workloads, and use AI as a day-to-day engineering partner across the development lifecycle.
 
 ---
 
@@ -30,6 +30,7 @@ I specialize in building and maintaining mission-critical cloud infrastructure u
 - **Infrastructure as Code & zero-trust:** **Terraform**/**Terragrunt**, **Vault**, and **Boundary** for secure access at scale.
 - **Helm engineering:** designing maintainable charts for consistent deployments across clusters.
 - **Independent SaaS building:** designing and shipping complete products (Go backends, GitOps, cloud) — beyond operating platforms.
+- **AI in the workflow:** operating platforms that run AI/ML workloads, and leaning on AI as a working partner in daily engineering.
 
 ---
 
