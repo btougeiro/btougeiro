@@ -4,10 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=btougeiro&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-### 🚀 Senior/Staff DevOps/Platform Engineer & SRE | Kubernetes Admin | Go Developer
-**18+ Years of IT Excellence | 9 Years Linux Systems | 7 Years Cloud-Native Engineering**
+### 🚀 Senior/Staff DevOps/Platform Engineer | Kubernetes | Go Developer
 
-I specialize in building and maintaining mission-critical cloud infrastructure using **Go**, **Kubernetes**, and **GitOps** methodologies. My daily workflow is centered around the **Argo Ecosystem** and high-scale automation, with a focus on security-first infrastructure.
+I specialize in building and maintaining mission-critical cloud infrastructure using **Go**, **Kubernetes**, and **GitOps** methodologies — centered on the **Argo Ecosystem** and security-first automation.
 
 ---
 
@@ -26,11 +25,11 @@ I specialize in building and maintaining mission-critical cloud infrastructure u
 
 ### 🎯 Key Focus Areas
 
-- **Argo Ecosystem Mastery:** Architecting and managing complex delivery pipelines using **Argo CD** and **Argo Workflows**.
-- **Go-Powered Automation:** Developing custom CLIs, Kubernetes Operators, and backend services in **Go** to solve infrastructure challenges.
-- **Enterprise IaC:** Scaling infrastructure with **Terraform** and **Terragrunt**, while securing access with **HashiCorp Vault** and **Boundary**.
-- **Helm Engineering:** Designing and maintaining robust Helm charts for standardized service deployments across clusters.
-- **AI-Augmented Engineering:** Leveraging AI as a strategic peer-programming partner to accelerate development cycles, optimize Go/Python code, and refine complex infrastructure designs.
+- **Kubernetes at scale:** managing a large multi-cloud fleet (AWS, Oracle, on-prem) with GitOps — standardized, centralized, and secure.
+- **Go-powered automation:** building CLIs and backend services in **Go** to solve real infrastructure problems.
+- **Infrastructure as Code & zero-trust:** **Terraform**/**Terragrunt**, **Vault**, and **Boundary** for secure access at scale.
+- **Helm engineering:** designing maintainable charts for consistent deployments across clusters.
+- **Independent SaaS building:** designing and shipping complete products (Go backends, GitOps, cloud) — beyond operating platforms.
 
 ---
 
